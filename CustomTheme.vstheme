@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="UMich Theme (2)" GUID="{b865aa5f-0b0a-4bdf-823b-6d60c8a98e1e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="UMich Theme (3)" GUID="{7cb492fe-f7a0-4ea2-a2af-12b909de15fd}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -3244,10 +3244,10 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF1A3D5E" />
+        <Background Type="CT_RAW" Source="FF2D2D30" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="FF2D2D30" />
       </Color>
       <Color Name="CommandBarMenuBorder">
         <Background Type="CT_RAW" Source="FF333337" />
@@ -3259,7 +3259,7 @@
         <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FF00274C" />
+        <Background Type="CT_RAW" Source="FF46464A" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyph">
         <Background Type="CT_RAW" Source="FFFFCB05" />
