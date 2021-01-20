@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="UMich Theme" GUID="{0f52bec2-25cb-4d56-abd4-ab8cbff701e1}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="UMich Theme (1)" GUID="{bcf1fde7-10dd-4a7b-9251-7b8fa4ad01d1}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -3253,16 +3253,16 @@
         <Background Type="CT_RAW" Source="FF333337" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="CommandBarMenuMouseOverSubmenuGlyph">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FF333337" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyph">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="CommandBarMouseDownBackgroundBegin">
         <Background Type="CT_RAW" Source="FF004F99" />
@@ -3478,10 +3478,10 @@
         <Background Type="CT_RAW" Source="FF1C97EA" />
       </Color>
       <Color Name="FileTabHotText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabHotGlyph">
-        <Background Type="CT_RAW" Source="FFD0E6F5" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabInactiveGradientTop">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -3499,16 +3499,16 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="FileTabLastActiveGradientTop">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="FileTabLastActiveGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="FileTabLastActiveGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="FileTabLastActiveGradientBottom">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="FileTabLastActiveDocumentBorderBackground">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -3517,16 +3517,16 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="FileTabLastActiveText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabLastActiveGlyph">
-        <Background Type="CT_RAW" Source="FFD0E6F5" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="NewProjectBackground">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -3956,7 +3956,7 @@
         <Background Type="CT_RAW" Source="FF0070D9" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIconBorder">
-        <Background Type="CT_RAW" Source="FF0070D9" />
+        <Background Type="CT_RAW" Source="FF002E59" />
       </Color>
       <Color Name="CommandBarSelected">
         <Background Type="CT_RAW" Source="FF00274C" />
@@ -4085,10 +4085,10 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="FileTabSelectedBorder">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabSelectedText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="FileTabText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -4394,16 +4394,16 @@
         <Background Type="CT_RAW" Source="FF3F3F46" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF0E6198" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="ToolWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF0E6198" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF52B0EF" />
+        <Background Type="CT_RAW" Source="FF0070D9" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF52B0EF" />
+        <Background Type="CT_RAW" Source="FF0070D9" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactive">
         <Background Type="CT_RAW" Source="FF393939" />
@@ -4442,10 +4442,10 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="FileTabSelectedGradientTop">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabSelectedGradientBottom">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabHotGradientTop">
         <Background Type="CT_RAW" Source="FF1C97EA" />
@@ -4457,7 +4457,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="FileTabDocumentBorderBackground">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabDocumentBorderHighlight">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -4490,7 +4490,7 @@
         <Background Type="CT_RAW" Source="00F1F1F1" />
       </Color>
       <Color Name="CommandBarCheckBoxMouseOver">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="CommandBarToolBarSeparatorHighlight">
         <Background Type="CT_RAW" Source="FF46464A" />
@@ -4560,13 +4560,13 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonDownSelectedInactiveBorder">
         <Background Type="CT_RAW" Source="FF1B1B1C" />
       </Color>
       <Color Name="FileTabButtonDownSelectedInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabProvisionalInactive">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -4584,7 +4584,7 @@
         <Background Type="CT_RAW" Source="FF68217A" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActiveForeground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactive">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -4599,7 +4599,7 @@
         <Background Type="CT_RAW" Source="FF555555" />
       </Color>
       <Color Name="FileTabButtonProvisionalSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFE1D3E4" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonProvisionalSelectedInactiveGlyph">
         <Background Type="CT_RAW" Source="FF6D6D70" />
@@ -4611,7 +4611,7 @@
         <Background Type="CT_RAW" Source="FFB064AB" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactive">
         <Background Type="CT_RAW" Source="FF442359" />
@@ -4620,7 +4620,7 @@
         <Background Type="CT_RAW" Source="FF442359" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActive">
         <Background Type="CT_RAW" Source="FF9B4F96" />
@@ -4629,7 +4629,7 @@
         <Background Type="CT_RAW" Source="FF9B4F96" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActive">
         <Background Type="CT_RAW" Source="FF442359" />
@@ -4638,7 +4638,7 @@
         <Background Type="CT_RAW" Source="FF442359" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedInactive">
         <Background Type="CT_RAW" Source="FF555555" />
@@ -4647,7 +4647,7 @@
         <Background Type="CT_RAW" Source="FF555555" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverSelectedInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactive">
         <Background Type="CT_RAW" Source="FF1B1B1C" />
@@ -4656,7 +4656,7 @@
         <Background Type="CT_RAW" Source="FF1B1B1C" />
       </Color>
       <Color Name="FileTabButtonSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFD0E6F5" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="FileTabButtonSelectedInactiveGlyph">
         <Background Type="CT_RAW" Source="FF6D6D70" />
@@ -4668,7 +4668,7 @@
         <Background Type="CT_RAW" Source="FF52B0EF" />
       </Color>
       <Color Name="FileTabButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonDownInactive">
         <Background Type="CT_RAW" Source="FF0E6198" />
@@ -4677,7 +4677,7 @@
         <Background Type="CT_RAW" Source="FF0E6198" />
       </Color>
       <Color Name="FileTabButtonDownInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActive">
         <Background Type="CT_RAW" Source="FF1C97EA" />
@@ -4686,7 +4686,7 @@
         <Background Type="CT_RAW" Source="FF1C97EA" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActive">
         <Background Type="CT_RAW" Source="FF0E6198" />
@@ -4695,7 +4695,7 @@
         <Background Type="CT_RAW" Source="FF0E6198" />
       </Color>
       <Color Name="FileTabButtonDownSelectedActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactive">
         <Background Type="CT_RAW" Source="FF555555" />
@@ -4704,7 +4704,7 @@
         <Background Type="CT_RAW" Source="FF555555" />
       </Color>
       <Color Name="FileTabButtonHoverSelectedInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabButtonDownSelectedInactive">
         <Background Type="CT_RAW" Source="FF1B1B1C" />
@@ -4782,7 +4782,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="CommandBarSelectedIcon">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="QuickCustomizeButton">
         <Background Type="CT_RAW" Source="FF333337" />
@@ -4900,7 +4900,7 @@
         <Foreground Type="CT_RAW" Source="99999999" />
       </Color>
       <Color Name="MainWindowButtonDownGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB09" />
       </Color>
       <Color Name="MainWindowButtonInactiveBorder">
         <Background Type="CT_RAW" Source="00000000" />
@@ -4921,7 +4921,7 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="MainWindowButtonActiveGlyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFFFCB09" />
       </Color>
       <Color Name="MainWindowButtonHoverActive">
         <Background Type="CT_RAW" Source="72555555" />
@@ -4930,13 +4930,13 @@
         <Background Type="CT_RAW" Source="72555555" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB09" />
       </Color>
       <Color Name="MainWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="MainWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF004F99" />
       </Color>
       <Color Name="MainWindowSolutionNameActiveBackground">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -4963,20 +4963,20 @@
       </Color>
       <Color Name="StatusBarDebugging">
         <Background Type="CT_RAW" Source="FFD86018" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="StatusBarNoSolution">
         <Background Type="CT_RAW" Source="FF00274C" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
-        <Background Type="CT_RAW" Source="FF0E639C" />
+        <Background Type="CT_RAW" Source="FFA5A508" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
-        <Background Type="CT_RAW" Source="FFCA5100" />
+        <Background Type="CT_RAW" Source="FFD86018" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="7F000000" />
@@ -5000,7 +5000,7 @@
         <Background Type="CT_RAW" Source="FF667D94" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverGlyph">
-        <Background Type="CT_RAW" Source="FFE1D3E4" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabProvisionalHover">
         <Background Type="CT_RAW" Source="FF68217A" />
@@ -5009,13 +5009,13 @@
         <Background Type="CT_RAW" Source="FF68217A" />
       </Color>
       <Color Name="FileTabProvisionalHoverForeground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="FileTabInactiveGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="MainWindowInactiveIconNoSolution">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="6668217A" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
         <Background Type="CT_RAW" Source="FFFFCB05" />
@@ -5027,16 +5027,16 @@
         <Background Type="CT_RAW" Source="FFD86018" />
       </Color>
       <Color Name="MainWindowActiveIconNoSolution">
-        <Background Type="CT_RAW" Source="FFFFCB05" />
+        <Background Type="CT_RAW" Source="FF68217A" />
       </Color>
       <Color Name="MainWindowInactiveIconDefault">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="66FFCB05" />
       </Color>
       <Color Name="MainWindowInactiveIconBuilding">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="66A5A508" />
       </Color>
       <Color Name="MainWindowInactiveIconDebugging">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="66D86018" />
       </Color>
       <Color Name="RaftedWindowInactiveIconNoSolution">
         <Background Type="CT_RAW" Source="66FFFFFF" />
@@ -5066,8 +5066,8 @@
         <Background Type="CT_RAW" Source="FF333334" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FF333334" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFFFCB05" />
+        <Foreground Type="CT_RAW" Source="FF00274C" />
       </Color>
       <Color Name="ScrollBarArrowGlyphPressed">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -5098,7 +5098,7 @@
       </Color>
       <Color Name="StatusBarHighlight">
         <Background Type="CT_RAW" Source="4C000000" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFFFCB05" />
       </Color>
       <Color Name="ScrollBarThumbDisabled">
         <Background Type="CT_RAW" Source="FF3E3E42" />
